@@ -1,7 +1,7 @@
 # indianstarup-analysis-python
 A detailed analysis of successful indian startups from 1984-2000
 
-Libraries used
+## Libraries used
 
 -pip install pandas
 
@@ -19,7 +19,7 @@ Libraries used
 
 -pip install fpdf
 
-Jupytr Notebook File consists of all the relevant comments required in order to understand the code and a pdf report has also been generated to better understand the practical use of the visualizations generated in the notebook
+## Jupytr Notebook File consists of all the relevant comments required in order to understand the code and a pdf report has also been generated to better understand the practical use of the visualizations generated in the notebook
 
 -Refer to startupanalysisnotebook.ipynb for the jupytr notebook
 
