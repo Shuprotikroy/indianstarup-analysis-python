@@ -18,3 +18,9 @@ Libraries used
 -pip install scipy
 
 -pip install fpdf
+
+Jupytr Notebook File consists of all the relevant comments required in order to understand the code and a pdf report has also been generated to better understand the practical use of the visualizations generated in the notebook
+
+-Refer to startupanalysisnotebook.ipynb for the jupytr notebook
+
+-Refer to startupanalysisreport.pdf for the pdf report
