@@ -1,5 +1,13 @@
-# indianstarup-analysis-python
-A detailed analysis of successful indian startups from 1984-2000
+# Indian Startup Analysis
+This project consists of a statistical detailed analysis of successful indian startups from 1984-2000 giving potential investors useful insights such as :-
+- Which city has the highest number of successful startups?
+- Regression Analysis telling startups the possible investments that can be raised in the future by startups as a whole 
+- Z score analysis of funding rounds that helps understand funding round patterns by startups
+- Z score analysis of starting years that helps understand the distribution of companies such as for eg when did >90% startups start their business?
+
+# Tools Used
+- Python for data processing
+- plotly for visualisation
 
 ## Libraries used
 
