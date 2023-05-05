@@ -1,4 +1,9 @@
 # Indian Startup Analysis
+
+-Refer to startupanalysisnotebook.ipynb for the jupytr notebook
+
+-Refer to startupanalysisreport.pdf for the pdf report
+
 This project consists of a statistical detailed analysis of successful indian startups from 1984-2000 giving potential investors useful insights such as :-
 - Which city has the highest number of successful startups?
 - Regression Analysis telling startups the possible investments that can be raised in the future by startups as a whole 
@@ -29,6 +34,3 @@ This project consists of a statistical detailed analysis of successful indian st
 
 ### Jupytr Notebook File consists of all the relevant comments required in order to understand the code and a pdf report has also been generated to better understand the practical use of the visualizations generated in the notebook
 
--Refer to startupanalysisnotebook.ipynb for the jupytr notebook
-
--Refer to startupanalysisreport.pdf for the pdf report
