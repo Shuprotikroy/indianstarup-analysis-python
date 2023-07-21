@@ -11,7 +11,7 @@ This project consists of a statistical detailed analysis of successful indian st
 - Regression Analysis telling startups the possible investments that can be raised in the future by startups as a whole 
 - Z score analysis of funding rounds that helps understand funding round patterns by startups
 - Z score analysis of starting years that helps understand the distribution of companies such as for eg when did >90% startups start their business?
-
+ 
 # Tools Used
 - Python for data processing
 - plotly for visualisation
