@@ -1,5 +1,7 @@
 # Indian Startup Analysis
 
+## The About section on the top right side of this project consists of a linkedin post link wherein this project has been explained in further detail
+
 - Refer to startupanalysisnotebook.ipynb for the jupytr notebook
 
 - Refer to startupanalysisreport.pdf for the pdf report
